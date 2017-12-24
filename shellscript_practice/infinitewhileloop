@@ -1,0 +1,6 @@
+#!/bin/bash
+while true
+do
+echo " this is infinite loop. Press ctrl+c to exit"
+done
+

@@ -1,0 +1,898 @@
+<!doctype html><!-- start coded_template: id:5326111217 path:generated_layouts/5326111212.html --><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Sonatype Inc.">
+    <meta name="description" content="Thanks for using the Nexus Repository OSS.">
+    <meta name="generator" content="HubSpot">
+    <title>OSS - Thank You</title>
+    <link rel="shortcut icon" href="https://www.sonatype.com/hubfs/Backgrounds/favicon.ico?t=1505915646254">
+    
+
+    <script src="https://static.hsstatic.net/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+    <script type="text/javascript">hsjQuery = window['jQuery']</script>
+    <link href="https://static.hsstatic.net/content_shared_assets/static-1.4047/css/public_common.css" rel="stylesheet">
+    <meta property="og:description" content="Thanks for using the Nexus Repository OSS.">
+    <meta property="og:title" content="OSS - Thank You">
+    <meta name="twitter:description" content="Thanks for using the Nexus Repository OSS.">
+    <meta name="twitter:title" content="OSS - Thank You">
+
+
+    
+    
+
+    
+    
+<!--  Added by AdRoll integration -->
+<script type="text/javascript">
+  adroll_adv_id = "LVE6K7UX6ZF3TJCF5YYLLW";
+  adroll_pix_id = "QDMEQXRCGJGFVFHP7PP7BL";
+  (function () {
+      var _onload = function(){
+          if (document.readyState && !/loaded|complete/.test(document.readyState)){setTimeout(_onload, 10);return}
+          if (!window.__adroll_loaded){__adroll_loaded=true;setTimeout(_onload, 50);return}
+          var scr = document.createElement("script");
+          var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+          scr.setAttribute('async', 'true');
+          scr.type = "text/javascript";
+          scr.src = host + "/j/roundtrip.js";
+          ((document.getElementsByTagName('head') || [null])[0] ||
+              document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+      };
+      if (window.addEventListener) {window.addEventListener('load', _onload, false);}
+      else {window.attachEvent('onload', _onload)}
+  }());
+</script>
+<!-- /Added by AdRoll integration -->
+
+    <link rel="canonical" href="https://www.sonatype.com/oss-thank-you-tgz">
+
+
+    <!--[if lt IE 9]>
+    <script src="https://static.hsstatic.net/content_shared_assets/static-1.4047/js/css3-mediaqueries.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<script type="text/javascript" src="https://www.sonatype.com/hs-fs/hub/1958393/hub_generated/template_assets/1463719698912/custom/page/web_page_basic/form-quality-check.min.js"></script>
+
+<!-- Add fancybox support -->
+
+<script type="text/javascript" src="https://www.sonatype.com/hubfs/Plugins/fancybox/lib/jquery.mousewheel-3.0.6.pack.js?t=1505915646254"></script>
+
+<link rel="stylesheet" href="https://www.sonatype.com/hubfs/Plugins/fancybox/source/jquery.fancybox.css?v=2.1.5&amp;t=1505915646254" type="text/css" media="screen">
+<script type="text/javascript" src="https://www.sonatype.com/hubfs/Plugins/fancybox/source/jquery.fancybox.pack.js?v=2.1.5&amp;t=1505915646254"></script>
+
+<!-- Optionally add helpers - button, thumbnail and/or media -->
+
+<link rel="stylesheet" href="https://www.sonatype.com/hubfs/Plugins/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5&amp;t=1505915646254" type="text/css" media="screen">
+
+<script type="text/javascript" src="https://www.sonatype.com/hubfs/Plugins/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5&amp;t=1505915646254"></script>
+
+<script type="text/javascript" src="https://www.sonatype.com/hubfs/Plugins/fancybox/source/helpers/jquery.fancybox-media.js?v=1.0.6&amp;t=1505915646254"></script>
+
+<link rel="stylesheet" href="https://www.sonatype.com/hubfs/Plugins/fancybox/source/helpers/jquery.fancybox-thumbs.css?v=1.0.7&amp;t=1505915646254" type="text/css" media="screen">
+
+<script type="text/javascript" src="https://www.sonatype.com/hubfs/Plugins/fancybox/source/helpers/jquery.fancybox-thumbs.js?v=1.0.7&amp;t=1505915646254"></script>
+
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.fancybox')
+            .fancybox({
+                openEffect : 'none',
+                closeEffect : 'none',
+                prevEffect : 'none',
+                nextEffect : 'none',
+
+                arrows : false,
+                helpers : {
+                    media : {},
+                    buttons : {}
+                }
+            });
+});
+</script>
+<meta name="google-site-verification" content="YwJUaTig7dTU7VWHgOIGs-O5zEmCFqLjIC4hFfkLAyA">
+<!-- Google Tag Manager -->
+<noscript>&lt;iframe  src="//www.googletagmanager.com/ns.html?id=GTM-TT8R4P" height="0" width="0" style="display:none;visibility:hidden"&gt;</noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TT8R4P');</script>
+<!-- End Google Tag Manager -->
+
+<script src="https://use.fonticons.com/cae69742.js"></script>
+<meta property="og:url" content="https://www.sonatype.com/oss-thank-you-tgz">
+<link href="//cdn2.hubspot.net/hub/-1/hub_generated/template_assets/1495141902003/hubspot_default/shared/responsive/layout.min.css" rel="stylesheet">
+<link href="https://www.sonatype.com/hs-fs/hub/1958393/hub_generated/template_assets/1505483391986/custom/styles/default/hs_default_custom_style.css" rel="stylesheet">
+
+<link rel="stylesheet" href="https://www.sonatype.com/hs-fs/hub/1958393/hub_generated/template_assets/1505485067596/Custom/page/Fall-2017/Updates-Fall-2017.min.css">
+
+
+<script type="text/javascript">
+    var dlloc = 'http://www.sonatype.org/downloads/nexus-latest-bundle.tar.gz';
+    var dldelay = 3000;
+    if(!(document.location.host == "app.hubspot.com" || document.location.host == "preview.hs-sites.com")) {
+        var dl = setTimeout( function(){
+            document.location.href = dlloc;
+        },
+        dldelay);
+    }
+</script>
+    <!-- The style tag has been deprecated. Attached stylesheets are included in the required_head_tags page variable. -->
+
+</head>
+<body class="sonatype-default-page st-landing-page   hs-content-id-5326486767 hs-landing-page hs-page " style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:3906896754 path:generated_global_groups/3906896744.html -->
+<div class="" data-global-widget-path="generated_global_groups/3906896744.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell sonatype-secondary-header sonatype-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-rich_text sonatype-news" style="" data-widget-type="rich_text" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14567894788182" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text">Sonatype Warns Additional Breaches Loom Post-Equifax&nbsp;<span>|&nbsp;</span><a href="https://www.sonatype.com/sonatype-warns-additional-breaches-loom-post-equifax">Read Press Release</a></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<nav class="sonatype-secondary-nav">
+  
+<div class="span6 widget-span widget-type-menu " style="" data-widget-type="menu" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1458689972919765" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1458689972919765" class="hs-menu-wrapper active-branch no-flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="Secondary menu">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://blog.sonatype.com" target="_blank">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/partners">Partners</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://www.sonatype.org/" target="_blank">Community</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://support.sonatype.com" target="_blank">Support</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://twitter.com/sonatype" target="_blank"><i class="fa fa-twitter"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.linkedin.com/company/sonatype" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.facebook.com/Sonatype" target="_blank"><i class="fa fa-facebook"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://plus.google.com/+Sonatypeinc/posts" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.youtube.com/user/sonatype" target="_blank"><i class="fa fa-youtube-play"></i></a></li>
+ </ul>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+     
+</nav>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell sonatype-section sonatype-primary-header" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-logo sonatype-primary-nav-logo" style="" data-widget-type="logo" data-x="0" data-w="4">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14567894788185" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_logo" style="" data-hs-cos-general-type="widget" data-hs-cos-type="logo"><a href="https://www.sonatype.com/" id="hs-link-module_14567894788185" style="border-width:0px;border:0px;"><img src="https://www.sonatype.com/hs-fs/hubfs/Sonatype_Logos/SON_logo_main.png?t=1505915646254&amp;width=157&amp;name=SON_logo_main.png" class="hs-image-widget " style="width:157px;border-width:0px;border:0px;" width="157" alt="" title="" srcset="https://www.sonatype.com/hs-fs/hubfs/Sonatype_Logos/SON_logo_main.png?t=1505915646254&amp;width=79&amp;name=SON_logo_main.png 79w, https://www.sonatype.com/hs-fs/hubfs/Sonatype_Logos/SON_logo_main.png?t=1505915646254&amp;width=157&amp;name=SON_logo_main.png 157w, https://www.sonatype.com/hs-fs/hubfs/Sonatype_Logos/SON_logo_main.png?t=1505915646254&amp;width=236&amp;name=SON_logo_main.png 236w, https://www.sonatype.com/hs-fs/hubfs/Sonatype_Logos/SON_logo_main.png?t=1505915646254&amp;width=314&amp;name=SON_logo_main.png 314w, https://www.sonatype.com/hs-fs/hubfs/Sonatype_Logos/SON_logo_main.png?t=1505915646254&amp;width=393&amp;name=SON_logo_main.png 393w, https://www.sonatype.com/hs-fs/hubfs/Sonatype_Logos/SON_logo_main.png?t=1505915646254&amp;width=471&amp;name=SON_logo_main.png 471w" sizes="(max-width: 157px) 100vw, 157px"></a></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span8 widget-span widget-type-cell " style="" data-widget-type="cell" data-x="4" data-w="8">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<nav class="sonatype-primary-nav">
+  
+<div class="span12 widget-span widget-type-menu desktop-navigation" style="" data-widget-type="menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14576409481131480" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_14576409481131480" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="Sonatype - v1 -Launch- - March 2016">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Products</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/products-overview">Overview</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-lifecycle">Nexus Lifecycle</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-firewall">Nexus Firewall</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-auditor">Nexus Auditor</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-repository-sonatype">Nexus Repository Pro</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-repository-oss">Nexus Repository OSS</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-product-pricing">Pricing</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Customers</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/customer-success">Success Stories</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/government">Government</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/financialservices">Financial Services</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/technology">Technology</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/healthcare">Healthcare</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/manufacturing">Manufacturing</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Resources</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="http://exchange.sonatype.com">Community Integrations</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/learn-data-services">Data Services</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/software-bill-of-materials">OSS Bill of Materials</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/upcoming-events">Events</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/training">Training</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/learn-white-papers">White Papers</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/learn-webinars">Webinars</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://help.sonatype.com" target="_blank">Documentation</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/contact-us">Contact Us</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/devops-an-innovators-journey-sonatype">Personal Journeys</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">About</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/about-sonatype">About Sonatype</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/management-team">Management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/board-of-directors">Board of Directors</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/investors">Investors</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/press-releases">Press Releases</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/media">Media Coverage</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/careers-sonatype">Careers</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/intelligence-automation">WHY NEXUS</a></li>
+ </ul>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+         
+</nav>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<nav class="sonatype-primary-nav mobile-version">
+  
+<div class="span12 widget-span widget-type-menu mobile-navigation" style="" data-widget-type="menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1503095781726111" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1503095781726111" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="Mobile Menu">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Products</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/products-overview">Overview</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-lifecycle">Nexus Lifecycle</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-firewall">Nexus Firewall</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-auditor">Nexus Auditor</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-repository-sonatype">Nexus Repository Pro</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-repository-oss">Nexus Repository OSS</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/nexus-product-pricing">Pricing</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Customers</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/customer-success-archive">Success Stories</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/government">Government</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/financialservices">Financial Services</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/technology">Technology</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/healthcare">Healthcare</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/manufacturing">Manufacturing</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">Resources</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="http://exchange.sonatype.com">Community Integrations</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/learn-data-services">Data Services</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/software-bill-of-materials-archive">OSS Bill of Materials</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/upcoming-events-archive">Events</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/learn-training-video-classroom">Training</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/learn-white-papers-archive">White Papers</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/learn-webinars-archive">Webinars</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="http://help.sonatype.com">Documentation</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/contact-us">Contact Us</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/devops-an-innovators-journey-sonatype-archive">Personal Journeys</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children"><a href="javascript:;">About</a>
+   <ul class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/management-team">Management</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/board-of-directors">Board of Directors</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/investors">Investors</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/press-releases">Press Releases</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/media">Media Coverage</a></li>
+    <li class="hs-menu-item hs-menu-depth-2"><a href="https://www.sonatype.com/careers-sonatype">Careers</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://blog.sonatype.com">Blog</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/partners">Partners</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://www.sonatype.org/">Community</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://support.sonatype.com">Support</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/intelligence-automation">Why Nexus</a></li>
+ </ul>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+         
+</nav>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:3906896754 path:generated_global_groups/3906896744.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+
+
+
+
+
+<div style="background-color:#1f3d5c ;">
+<div class="clearfix " style="background-image: url(https://www.sonatype.com/hubfs/Updates%20Fall%202017/Landing%20Pages/cogs-15-opaque.png?t=1505915646254); background-position:center center; background-size:cover;">
+
+<div class="span12 widget-span widget-type-cell white-text banner-flex-container flexrow-fluid banner-flex-text" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1504640777411562" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h1 style="text-align: center;"><span style="color: #ffffff;"><br>Your download should begin immediately</span></h1>
+<h3 style="text-align: center;"><span style="color: #ffffff;">If your download doesn't start, <a href="http://download.sonatype.com/nexus/3/latest-mac.tgz" style="color: #ffffff;">click here</a>.&nbsp;</span></h3>
+<p>&nbsp;</p></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+
+<div style="clear:both;"></div>
+</div>
+
+</div>
+
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell sonatype-section sonatype-body nobackground nofill" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span6 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1490810827892995" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget" style="" data-hs-cos-general-type="widget" data-hs-cos-type="custom_widget"><!--
+Welcome to the Custom Module editor.
+
+We've started out this module with some Fields and a Template to show you
+how it works. Try clicking "Preview" above to see what this module does when
+it's used in a Template.
+-->
+
+<style>
+    @import "//cdn2.hubspot.net/hub/1958393/hub_generated/template_assets/1472530357491/custom/system/css/sonatype-overview-block.min.css"
+</style>
+
+<div class="sonatype-overview-block">
+    
+    <div class="image">
+        
+            <img src="https://www.sonatype.com/hs-fs/hubfs/Icons/robust%20copy.png?t=1505915646254&amp;width=200&amp;height=200&amp;name=robust%20copy.png" width="200" height="200" alt="" srcset="https://www.sonatype.com/hs-fs/hubfs/Icons/robust%20copy.png?t=1505915646254&amp;width=100&amp;height=100&amp;name=robust%20copy.png 100w, https://www.sonatype.com/hs-fs/hubfs/Icons/robust%20copy.png?t=1505915646254&amp;width=200&amp;height=200&amp;name=robust%20copy.png 200w, https://www.sonatype.com/hs-fs/hubfs/Icons/robust%20copy.png?t=1505915646254&amp;width=300&amp;height=300&amp;name=robust%20copy.png 300w, https://www.sonatype.com/hs-fs/hubfs/Icons/robust%20copy.png?t=1505915646254&amp;width=400&amp;height=400&amp;name=robust%20copy.png 400w, https://www.sonatype.com/hs-fs/hubfs/Icons/robust%20copy.png?t=1505915646254&amp;width=500&amp;height=500&amp;name=robust%20copy.png 500w, https://www.sonatype.com/hs-fs/hubfs/Icons/robust%20copy.png?t=1505915646254&amp;width=600&amp;height=600&amp;name=robust%20copy.png 600w" sizes="(max-width: 200px) 100vw, 200px">
+        
+    </div>
+    
+    <div class="text">
+        
+        <h3>Join the Nexus Community</h3>
+        
+        <div><span>Get free support and fast answers with video training <br>and product downloads.</span></div>
+        
+        <div class="cta-container">
+                
+            <a href="http://www.sonatype.org/nexus" class="cta_button fancybox">Join the Community</a>
+            
+            
+        </div>
+        
+    </div>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span6 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="6" data-w="6">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1490810828881996" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_custom_widget" style="" data-hs-cos-general-type="widget" data-hs-cos-type="custom_widget"><!--
+Welcome to the Custom Module editor.
+
+We've started out this module with some Fields and a Template to show you
+how it works. Try clicking "Preview" above to see what this module does when
+it's used in a Template.
+-->
+
+<style>
+    @import "//cdn2.hubspot.net/hub/1958393/hub_generated/template_assets/1472530357491/custom/system/css/sonatype-overview-block.min.css"
+</style>
+
+<div class="sonatype-overview-block">
+    
+    <div class="image">
+        
+            <img src="https://www.sonatype.com/hs-fs/hubfs/Icons/Documentation-1.png?t=1505915646254&amp;width=200&amp;height=200&amp;name=Documentation-1.png" width="200" height="200" alt="" srcset="https://www.sonatype.com/hs-fs/hubfs/Icons/Documentation-1.png?t=1505915646254&amp;width=100&amp;height=100&amp;name=Documentation-1.png 100w, https://www.sonatype.com/hs-fs/hubfs/Icons/Documentation-1.png?t=1505915646254&amp;width=200&amp;height=200&amp;name=Documentation-1.png 200w, https://www.sonatype.com/hs-fs/hubfs/Icons/Documentation-1.png?t=1505915646254&amp;width=300&amp;height=300&amp;name=Documentation-1.png 300w, https://www.sonatype.com/hs-fs/hubfs/Icons/Documentation-1.png?t=1505915646254&amp;width=400&amp;height=400&amp;name=Documentation-1.png 400w, https://www.sonatype.com/hs-fs/hubfs/Icons/Documentation-1.png?t=1505915646254&amp;width=500&amp;height=500&amp;name=Documentation-1.png 500w, https://www.sonatype.com/hs-fs/hubfs/Icons/Documentation-1.png?t=1505915646254&amp;width=600&amp;height=600&amp;name=Documentation-1.png 600w" sizes="(max-width: 200px) 100vw, 200px">
+        
+    </div>
+    
+    <div class="text">
+        
+        <h3>Check out the Nexus Book</h3>
+        
+        <div><span>Documentation includes installation, configuration, <br>and usage.<br></span></div>
+        
+        <div class="cta-container">
+                
+            <a href="https://books.sonatype.com/nexus-book/reference3/*" class="cta_button fancybox">Read the Book</a>
+            
+            
+        </div>
+        
+    </div>
+</div></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text sonatype-body sonatype-section" style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1490810831038997" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h4 style="text-align: center;">Try a full featured trial of<span>&nbsp;</span><a href="https://www.sonatype.com/download-nexus-repository-trial">Nexus Repository</a>, today!</h4></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+
+
+<div style="background-color:#1f3d5c ;">
+
+<div class="span12 widget-span widget-type-cell footer-banner sonatype-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span10 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="10">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1504640835170567" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><h3><span style="color: #ffffff;">Sonatype's data is better.</span></h3></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-rich_text footer-banner-button" style="text-align: right;" data-widget-type="rich_text" data-x="10" data-w="2">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1504640850032572" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="https://www.sonatype.com/learn-data-services" class="st-button pink">LEARN WHY</a></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+
+<div style="clear:both;"></div>
+</div>
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<!-- start coded_template: id:4063610555 path:generated_global_groups/4063610545.html -->
+<div class="" data-global-widget-path="generated_global_groups/4063610545.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell sonatype-footer sonatype-body sonatype-section" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell desktop-footer" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="0" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-linked_image sonatype-footer-nav-logo" style="" data-widget-type="linked_image" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902672" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_linked_image" style="" data-hs-cos-general-type="widget" data-hs-cos-type="linked_image"><a href="https://www.sonatype.com/" id="hs-link-module_14568829902672" style="border-width:0px;border:0px;"><img src="https://www.sonatype.com/hs-fs/hubfs/Updates%20Fall%202017/Logos/Footer-Desktop-logo-transparent.png?t=1505915646254&amp;width=121&amp;name=Footer-Desktop-logo-transparent.png" class="hs-image-widget " style="width:121px;border-width:0px;border:0px;" width="121" alt="Footer-Desktop-logo-transparent.png" title="Footer-Desktop-logo-transparent.png" srcset="https://www.sonatype.com/hs-fs/hubfs/Updates%20Fall%202017/Logos/Footer-Desktop-logo-transparent.png?t=1505915646254&amp;width=61&amp;name=Footer-Desktop-logo-transparent.png 61w, https://www.sonatype.com/hs-fs/hubfs/Updates%20Fall%202017/Logos/Footer-Desktop-logo-transparent.png?t=1505915646254&amp;width=121&amp;name=Footer-Desktop-logo-transparent.png 121w, https://www.sonatype.com/hs-fs/hubfs/Updates%20Fall%202017/Logos/Footer-Desktop-logo-transparent.png?t=1505915646254&amp;width=182&amp;name=Footer-Desktop-logo-transparent.png 182w, https://www.sonatype.com/hs-fs/hubfs/Updates%20Fall%202017/Logos/Footer-Desktop-logo-transparent.png?t=1505915646254&amp;width=242&amp;name=Footer-Desktop-logo-transparent.png 242w, https://www.sonatype.com/hs-fs/hubfs/Updates%20Fall%202017/Logos/Footer-Desktop-logo-transparent.png?t=1505915646254&amp;width=303&amp;name=Footer-Desktop-logo-transparent.png 303w, https://www.sonatype.com/hs-fs/hubfs/Updates%20Fall%202017/Logos/Footer-Desktop-logo-transparent.png?t=1505915646254&amp;width=363&amp;name=Footer-Desktop-logo-transparent.png 363w" sizes="(max-width: 121px) 100vw, 121px"></a></span></div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="2" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902678" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Products</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu footer-menu" style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902679" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_14568829902679" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/products-overview-archived-0" target="_self">Overview</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/nexus-lifecycle-archived-0" target="_self">Nexus Lifecycle</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/nexus-firewall-archived-0" target="_self">Nexus Firewall</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/nexus-auditor-archived-0" target="_self">Nexus Auditor</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/nexus-repository-sonatype-archived-0" target="_self">Nexus Repository Pro</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/nexus-repository-oss-archived-0" target="_self">Nexus Repository OSS</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/nexus-product-pricing-archived-0" target="_self">Pricing</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="4" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026711" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Customers</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-8 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu footer-menu" style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026712" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_145688299026712" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/customer-success-archive" target="_self">Success Stories</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/government-archived-0" target="_self">Government</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/financialservices-archived-0" target="_self">Financial Services</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/technology-archived-0" target="_self">Technology</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/healthcare-archived-0" target="_self">Healthcare</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/manufacturing-archived-0" target="_self">Manufacturing</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="6" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-9 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026714" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Resources</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-10 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu footer-menu" style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026715" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_145688299026715" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="http://exchange.sonatype.com" target="_self">Community Integrations</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/learn-data-services-archived-0" target="_self">Data Services</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/download-application-health-check-archive" target="_self">OSS Bill of Materials</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/upcoming-events-archive" target="_self">Events</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/learn-training-archived-0" target="_self">Training</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/learn-white-papers-archive" target="_self">White papers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/learn-webinars-archive" target="_self">Webinars</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://help.sonatype.com" target="_self">Documentation</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/contact-us" target="_self">Contact Us</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/devops-an-innovators-journey-sonatype-archive" target="_self">Personal Journeys</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="8" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-11 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026717" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">About</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-12 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-simple_menu footer-menu" style="" data-widget-type="simple_menu" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026718" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_145688299026718" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-vertical" role="navigation" data-sitemap-name="">
+ <ul>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/about-sonatype" target="_self">About Sonatype</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/management-team-archived-0" target="_self">Management</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/board-of-directors-archived" target="_self">Board of Directors</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/investors-archived" target="_self">Investors</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/press-releases-archived" target="_self">Press Releases</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/media-archived-0" target="_self">Media Coverage</a></li>
+  <li class="hs-menu-item hs-menu-depth-1"><a href="https://www.sonatype.com/careers-sonatype-archived" target="_self">Careers</a></li>
+ </ul>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+<div class="span2 widget-span widget-type-cell sonatype-column" style="" data-widget-type="cell" data-x="10" data-w="2">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-13 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1503090809028170" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><span style="color: #ffffff;">Social</span></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-14 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html footer-menu" style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_14568829902673" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="sonatype-social">
+<a href="https://twitter.com/sonatype" target="_blank"><i class="fa fa-twitter"></i> Twitter</a>
+<a href="https://www.linkedin.com/company/sonatype" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a>
+<a href="https://www.facebook.com/Sonatype" target="_blank"><i class="fa fa-facebook"></i> Facebook</a>
+<a href="https://plus.google.com/+Sonatypeinc/posts" target="_blank"><i class="fa fa-google-plus"></i> Google+</a>
+<a href="https://www.youtube.com/user/sonatype" target="_blank"><i class="fa fa-youtube-play"></i> YouTube</a>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-15 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell mobile-footer" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-16 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text " style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1503090571206149" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><img src="https://www.sonatype.com/hs-fs/hubfs/Assets/sonatype-logo-navbar.png?t=1505915646254&amp;width=144&amp;height=31&amp;name=sonatype-logo-navbar.png" alt="" title="sonatype-logo-navbar.png" width="144" height="31" srcset="https://www.sonatype.com/hs-fs/hubfs/Assets/sonatype-logo-navbar.png?t=1505915646254&amp;width=72&amp;height=16&amp;name=sonatype-logo-navbar.png 72w, https://www.sonatype.com/hs-fs/hubfs/Assets/sonatype-logo-navbar.png?t=1505915646254&amp;width=144&amp;height=31&amp;name=sonatype-logo-navbar.png 144w, https://www.sonatype.com/hs-fs/hubfs/Assets/sonatype-logo-navbar.png?t=1505915646254&amp;width=216&amp;height=47&amp;name=sonatype-logo-navbar.png 216w, https://www.sonatype.com/hs-fs/hubfs/Assets/sonatype-logo-navbar.png?t=1505915646254&amp;width=288&amp;height=62&amp;name=sonatype-logo-navbar.png 288w, https://www.sonatype.com/hs-fs/hubfs/Assets/sonatype-logo-navbar.png?t=1505915646254&amp;width=360&amp;height=78&amp;name=sonatype-logo-navbar.png 360w, https://www.sonatype.com/hs-fs/hubfs/Assets/sonatype-logo-navbar.png?t=1505915646254&amp;width=432&amp;height=93&amp;name=sonatype-logo-navbar.png 432w" sizes="(max-width: 144px) 100vw, 144px"></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-17 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-raw_html " style="" data-widget-type="raw_html" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_1503090682618167" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_raw_html" style="" data-hs-cos-general-type="widget" data-hs-cos-type="raw_html"><div class="row-fluid">
+<div style="width:50%; float:left;">
+<ul class="mobile-footer-links">
+<li><a href="/products-overview">Products</a> </li>
+<li><a href="/customer-success">Customers</a> </li>
+<li><a href="http://exchange.sonatype.com/">Resources</a> </li>
+<li><a href="/about-sonatype">About</a> </li>
+</ul>
+</div>
+<div style="width:50%; float:left;">
+<ul class="sonatype-social">
+<li><a href="https://twitter.com/sonatype" target="_blank"><i class="fa fa-twitter"></i> Twitter</a></li>
+<li><a href="https://www.linkedin.com/company/sonatype" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+<li><a href="https://www.facebook.com/Sonatype" target="_blank"><i class="fa fa-facebook"></i> Facebook</a></li>
+<li><a href="https://plus.google.com/+Sonatypeinc/posts" target="_blank"><i class="fa fa-google-plus"></i> Google+</a></li>
+<li><a href="https://www.youtube.com/user/sonatype" target="_blank"><i class="fa fa-youtube-play"></i> YouTube</a></li>
+</ul>       
+</div>
+</div></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-18 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-rich_text sonatype-legal" style="" data-widget-type="rich_text" data-x="0" data-w="12">
+<div class="cell-wrapper layout-widget-wrapper">
+<span id="hs_cos_wrapper_module_145688299026719" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p class="footer-copyright">Sonatype Headquarters -&nbsp;8161 Maple Lawn Blvd #250, Fulton, MD 20759<br>Tysons Office - 8251 Greensboro Drive #610, McLean, VA 22102<br>Australia Office - 5 Martin Place, Level 14, Sydney 2000, NSW, Australia&nbsp; <br>London Office - 1 Primrose St, London EC2A 2EX</p>
+<p class="footer-copyright">Copyright&nbsp;© 2008-present, Sonatype Inc. All rights reserved. Includes the third-party code listed here. Sonatype and Sonatype Nexus are trademarks of Sonatype, Inc. Apache Maven and Maven are trademarks of the Apache Software Foundation. M2Eclipse is a trademark of the Eclipse Foundation. All other trademarks are the property of their respective owners.</p>
+<p class="footer-terms"><a href="//www.sonatype.com/terms-of-service">Terms of Service</a> &nbsp; &nbsp;<a href="//www.sonatype.com/privacy-policy">Privacy Policy</a></p></span>
+</div><!--end layout-widget-wrapper -->
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div><!-- end coded_template: id:4063610555 path:generated_global_groups/4063610545.html -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<script type="text/javascript" src="https://static.hsstatic.net/content_shared_assets/static-1.4047/js/public_common.js"></script>
+
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "landing-page"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/www.sonatype.com\/oss-thank-you-tgz"]);
+_hsq.push(["setPageId", "5326486767"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 5326486767,
+    "legacyPageId": "5326486767",
+    "contentGroupId": null,
+    "abTestId": null,
+    "languageVariantId": 5326486767,
+    "languageCode": null
+}]);
+_hsq.push(["setTargetedContentMetadata", []]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/1958393.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    ticks: 1505919043759,
+    page_id: 5326486767,
+    content_group_id: 0,
+    portal_id: 1958393,
+    app_hs_base_url: "https://app.hubspot.com",
+    language: "en",
+    analytics_page_type: "landing-page"
+}
+</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-1693297-38', 'auto','sonatypeDemandbaseTracker02012017');
+ga('sonatypeDemandbaseTracker02012017.send', 'pageview');
+
+  ga('create', 'UA-1693297-29', 'auto','cdt');
+  ga('cdt.send', 'pageview');
+
+</script>
+
+<script type="text/javascript" language="javascript"> 
+      var sf14gv = 29592; 
+      (function() { 
+      var sf14g = document.createElement('script'); sf14g.type = 'text/javascript'; sf14g.async = true; 
+      sf14g.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 't.sf14g.com/sf14g.js'; 
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sf14g, s); 
+      })(); 
+</script>
+
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
+a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
+t.async=!0,t.src='//static.ads-twitter.com/uwt.js',s=n.getElementsByTagName(u)[0],
+s.parentNode.insertBefore(t,s))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nv7ri');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+<!-- Start DemandBase website tag code -->
+<script>
+(function(d,b,a,s,e){ var t = b.createElement(a),
+    fs = b.getElementsByTagName(a)[0]; t.async=1; t.id=e; t.src=s;
+    fs.parentNode.insertBefore(t, fs); })
+(window,document,'script','https://scripts.demandbase.com/eUSOivES.min.js','demandbase_js_lib');
+</script>
+<!-- Start DemandBase website tag code -->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '186951338452760'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=186951338452760&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '186951338452760'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=186951338452760&amp;ev=PageView&amp;noscript=1"></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<script type="text/javascript">
+_linkedin_data_partner_id = "39209";
+</script><script type="text/javascript">
+(function(){var s = document.getElementsByTagName("script")[0];
+var b = document.createElement("script");
+b.type = "text/javascript";b.async = true;
+b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
+s.parentNode.insertBefore(b, s);})();
+</script>
+<!-- Twitter universal website tag code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='//static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+// Insert Twitter Pixel ID and Standard Event data below
+twq('init','nv7ri');
+twq('track','PageView');
+</script>
+<!-- End Twitter universal website tag code -->
+<!-- Mobile Navigation Script -->
+<script src="https://www.sonatype.com/hs-fs/hub/1958393/hub_generated/template_assets/1503115970516/Custom/page/Fall-2017/Sonatype-Main.min.js">
+</script>
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+<!-- Editor Styles -->
+<style id="hs_editor_style" type="text/css">
+#hs_cos_wrapper_module_1504640777411562  { margin-bottom: 14px !important; display: block !important }
+
+</style>
+
+<!-- end coded_template: id:5326111217 path:generated_layouts/5326111212.html -->
+</body></html>

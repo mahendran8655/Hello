@@ -1,0 +1,18 @@
+#!/bin/bash
+echo " enter the state"
+read state
+
+case $state in
+	"up")
+echo "cap is luknow"
+;;
+"punjab" | "haryana")
+echo "cap is chandigar"
+;;
+*)
+
+echo " you r entered wronmg state"
+;;
+
+esac
+

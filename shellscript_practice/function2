@@ -1,0 +1,8 @@
+#!/bin/bash
+function func()
+{
+echo " mahe $3"
+}
+
+func ndran kamal
+
